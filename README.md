@@ -1,6 +1,6 @@
 # internal_navigator
 
-A new Flutter project.
+An example app on how to use multiple Navigator inside a Flutter app.
 
 ## Getting Started
 

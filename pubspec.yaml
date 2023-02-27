@@ -1,5 +1,5 @@
 name: internal_navigator
-description: A new Flutter project.
+description: An example app on how to use multiple Navigator inside a Flutter app.
 
 publish_to: "none"
 
